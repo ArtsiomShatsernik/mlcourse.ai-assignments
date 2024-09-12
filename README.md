@@ -1,2 +1,2 @@
 # mlcourse.ai-assignments
-Assignments from mlcourse.ai
+The tasks I solved for the mlcourse.ai.
